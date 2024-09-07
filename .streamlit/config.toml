@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#6C757D"  # Muted grayish-blue
+backgroundColor = "#FAFAFA"  # Soft white
+secondaryBackgroundColor = "#EAEAEA"  # Light gray
+textColor = "#333333"  # Dark gray for easier reading
+font = "monospace"  # Elegant and formal serif font
