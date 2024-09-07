@@ -2,7 +2,13 @@
 
 SnapQuest is a fun and interactive daily photography challenge app built using Streamlit. Every day at 10 AM UTC, a new object is revealed, challenging users to capture creative photos and submit them to the gallery. Whether you're a seasoned photographer or just getting started, SnapQuest helps you improve your skills and explore the world around you in a new light.
 
-![SnapQuest Banner](https://images.unsplash.com/photo-1517336714731-489689fd1ca8)
+<p align="center">
+    <img src="https://images.unsplash.com/photo-1480779687977-36af2e48d276?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+         alt="SnapQuest Banner" 
+         width="800" 
+         height="400" 
+    >
+</p>
 
 ## Features
 
